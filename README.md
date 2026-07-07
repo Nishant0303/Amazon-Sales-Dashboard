@@ -1,3 +1,13 @@
+Amazon-Sales-Dashboard/
+│
+├── index.html
+├── style.css
+├── script.js
+├── images/
+│     dashboard.png
+│     dashboard2.png
+│
+└── README.md
 # 📊 Amazon Sales Analytics Dashboard
 
 An interactive **Power BI** dashboard that analyzes Amazon sales, profit, customer behavior, and product performance — built with Power Query, DAX, and data modeling best practices.
