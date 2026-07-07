@@ -1,0 +1,14 @@
+# Power BI
+*.pbix.bak
+~$*.pbix
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp / cache
+*.tmp
+*.log
+
+# Large raw data (uncomment if your dataset is too big for GitHub, and use Git LFS instead)
+# Dataset.xlsx
