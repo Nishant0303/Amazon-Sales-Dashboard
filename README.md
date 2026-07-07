@@ -45,7 +45,7 @@ This project simulates a real-world business intelligence task: turning raw Amaz
 
 ## 🗂️ Dataset
 
-- **Source:** [Kaggle – Amazon Sales Dataset](https://www.kaggle.com/) *(replace with the exact dataset link you used)*
+- **Source:** (https://amazon-sales-dashboard-three.vercel.app/) 
 - **Size:** ~20,000–100,000 rows
 - **Columns:** `Order ID`, `Order Date`, `Customer`, `Region`, `State`, `Category`, `Sub-Category`, `Product`, `Sales`, `Profit`, `Quantity`, `Discount`
 
